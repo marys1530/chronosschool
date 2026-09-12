@@ -1,0 +1,6 @@
+{
+  "name": "ChronosSchool - Gestione Orario Scolastico",
+  "description": "Generatore e gestore intelligente dell'orario scolastico con risoluzione conflitti, carpooling docenti, esportazione PDF ed Excel, gestione classi e piani di studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
